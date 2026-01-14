@@ -1,0 +1,80 @@
+@import "libs/breakpoints";
+@import "libs/functions";
+@import "libs/html-grid";
+@import "libs/mixins";
+@import "libs/vars";
+@import "libs/vendor";
+
+@import "fontawesome-all.min.css";
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,700,300i,600i,700i|Raleway:600,800");
+
+/*
+	Paradigm Shift by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+// Breakpoints.
+
+@include breakpoints(
+  (
+    default: (
+      1681px,
+      null,
+    ),
+    xlarge: (
+      1281px,
+      1920px,
+    ),
+    large: (
+      1153px,
+      1280px,
+    ),
+    medium: (
+      737px,
+      1152px,
+    ),
+    small: (
+      481px,
+      736px,
+    ),
+    xsmall: (
+      361px,
+      480px,
+    ),
+    xxsmall: (
+      null,
+      360px,
+    ),
+  )
+);
+
+// Base.
+
+@import "base/page";
+@import "base/reset";
+@import "base/typography";
+
+// Component.
+
+@import "components/actions";
+@import "components/arrow";
+@import "components/box";
+@import "components/button";
+@import "components/feature-icons";
+@import "components/form";
+@import "components/gallery";
+@import "components/icon";
+@import "components/icons";
+@import "components/image";
+@import "components/list";
+@import "components/pagination";
+@import "components/row";
+@import "components/spotlights";
+@import "components/table";
+
+// Layout.
+
+@import "layout/menu";
+@import "layout/wrapper";
+@import "layout/sidebar";
