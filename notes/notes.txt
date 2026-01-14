@@ -1,0 +1,336 @@
+
+donkeyinazoo.github.io
+
+home - paradigm shift (base) with menu to different pages\with scrolly
+  
+
+donkeyinazoo.github.io/reads - movies, series, books
+home - forty index(home)
+movies, series, books in particular - phantom tiles layout or forty index tiles layout
+article - forty generic \/with scrolly
+
+
+
+with imdb details, input suggestions of viewers to watch list read list
+
+
+donkeyinazoo.github.io/writes - articles that i write, articles that i love
+home - forty landing
+article - forty generic /with scrolly
+
+with requests to write on certain topics
+
+https://www.claudiatenhoope.com/
+https://analyzewithaliportfolio.wordpress.com/
+https://jessierayebauer.wixsite.com/jrbauer/resume
+https://binnie869.github.io/
+https://gerinberg.com/
+https://www.yan-holtz.com/
+https://naledi.co.uk/
+
+
+main - https://debarghyadas.com/
+writes/blogs/tweets - https://debarghyadas.com/writes/
+reads/watches - https://debarghyadas.com/reads/
+
+from https://thetanmaypramanick.blogspot.com
+name - Tanmay Pramanick (Well know me better here)
+all the posts
+
+from https://donkeyinazoo.blogspot.com/
+menu - journals, whimsical posts, apropos movies, weird stuffs, padhai?
+header menu - home contact me links(linktree)
+social media - insta, spotify, twitter, telegram, search
+a public discord server, reddit, quora
+
+
+leetcode, kaggle
+
+
+integrate disqus comments
+
+subscribe setup for blog notifications
+
+probable links everywhere possible on keywords(bettter search optimization)
+navbar - with the whole home page navigation links + exterior links
+name
+integrate audio file for the pronunciation of your name
+social icons
+manage a regular twitter, threads, linkedin, github, quora, reddit, medium, behance, linktree, letterboxd
+about me - a little
+Work experience [I've worked at a few places too.]
+Acievements/successes [Some stuff I did gained some popularity.](in milestone format with dates, year)
+popular blog posts
+Research papers [Research is fun.]
+projects [I love(heart symbol) making cool shit.]
+other coursework-based project
+other personal projects
+about me [And a little bit about me...]
+[I enjoy critically reasoning and debating controversial topics. Topics that particularly interest me are India, education, politics, technology, and economics. I tweet about my thoughts at @debarghya_das.
+
+My Myers-Briggs Type Indicator(MBTI) is INTP [Introverted iNtuitive Thinking Perceiving]. The favorite people I supposedly share my personality type with are Albert Einstein, Larry Page and Sergey Brin. You too should take the test here. As of late '17, I test as an ENTP.
+
+I occasionally write on my blog, Writes whenever I feel like I have something new to add, usually about India, life, code and education. I used to write quite a bit on Quora.
+
+I enjoy hiking, cricket, eating and reading about tech. I'm compiling a list of my favorite books, videos, articles and news sources on the internet in a list called where the knowledge is.
+
+I love Hindi music and have a large Spotify playlist going, cleverly marketed as the Best Hindi Playlist on Spotify. I also like Michael Jackson, music from different countries, and my throwback high school Rock and Metal playlist.
+
+I once lived off coffee, beer, and 5-hour energy shots, often in that order.
+Now it's mostly chai, coffee and cheap wine.
+]
+
+Resume [And here's my resumé...]
+Copyright [Copyright © Debarghya Das 2022]
+
+=============================================
+
+
+Services
+
+As a freelance data analyst and data scientist, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs.
+
+I am experienced in machine learning, supervised and unsupervised algorithms and use data visualization techniques to present the results. I use SQL, R, Python, QlikView and Tableau for my data projects.
+Icon data analysis
+Data analysis
+
+I am specialized in analyzing data. Results, trends and recommendations are clearly presented in reports or tools.
+(example)
+Icon advice and coaching projects
+Advice and coaching projects
+
+Before and during data related projects, I give advice on the progress of the project and I coach data analysts.
+Icon data analytics
+Data analytics
+
+Get more value from your data with prediction models and machine learning techniques, for example by predicting behavior or targeting the right customer.
+(example)
+Icon interactive infographics
+(Interactive) infographics
+
+Present your data in an inspiring way by using an infographic rather than a piece of text. I create interactive infographics which can be used internally or publicly.
+Icon dashboard
+Dashboards
+
+Dashboards show the most recent results in an interactive way. By clicking and drilling, you will examine trends and patterns yourself.
+(example)
+Icon web development
+Front-end web developer
+
+As a web developer, I help to design and create the perfect website for starters and freelancers. The website is optimized for desktop and smartphone.
+(example)
+
+
+About me
+
+Hi, my name is Claudia and I work remotely as a freelance data scientist. I hold a Bachelor’s and Master’s degree in science (Business Analytics, VU University Amsterdam).
+
+Since I was young, I have always enjoyed to solve puzzles. So that’s how I look at big data sets: to me it is one big puzzle I want to solve. Finding patterns nobody else sees is the challenge to me.
+
+I have been working as a data scientist for more than ten years with experience in transport, logistics and retail. I have worked for more than 25 companies which gives me the ability to translate complex questions into understandable insights.
+
+Do you want to work together? Please reach out to me by e-mail.
+
+
+
+
+
+Contact
+
+Claudia
+
+As data scientist, I know exactly how you can use data optimally within your business. Based on your objectives, we will make a plan to reach the right insight.
+
+I am available for:
+
+    Data science (prediction models, segmentations)
+    Data analysis
+    Data visualisation (infographics, dashboards)
+    Advice and coaching data projects
+    Training and workshops (start with data analysis, how to answer questions with data, hands-on SQL, hands-on R)
+    Presentations (storytelling, how to present data, how do other businesses use data?)
+
+Rates
+
+    Data science, data analysis and visualisation projects: €840 per day
+    Presentations, training and workshops starting from €600 (max 4 hours)
+    Full-day training starting from €1250
+
+Rates are excluding VAT.
+
+
+
+=====================================
+Resume
+
+Click button below to download the most recent version of my resume.
+
+Additional Details on LinkedIn.
+
+​
+Download Resume
+
+
+==================================
+
+Mission
+Turning your data into insights
+
+My name is Ger Inberg, a Dutch data scientist with a background in software engineering.
+
+I work remotely as a freelance data scientist. Getting insights out of data is something that I really like. Data visualization and machine learning are some techniques that I am using to achieve this.
+I am a big open source believer since I think with sharing solutions we can achieve a lot more as a community. Therefore I prefer to use R and python for my daily work.
+
+I have a passion for (endurance) sports and healthy living and I would love to help you out if you have a project in those areas!
+On my website you can find some examples of my projects, most of them are links to a website or interactive visualization.
+
+Have fun in browsing through the content and thank you for visiting!
+
+
+
+
+
+===========================================
+Naledi Hollbruegge
+Consulting Analyst
+Collect, process, analyse and present data - from supporting everyday business decisions to driving global change
+
+Collect
+
+Coming from a background in social psychology and social research, I have theoretical and practical knowledge in survey design and impact assessment. I have data collection and management experience with Kobo Toolbox, Qualtrics, Commcare and Airtable.
+Process
+
+As an Alteryx Designer Advanced Certified analyst I can offer support on improving existing workflows and creation of new processes, covering data transformation, unification, spatial and predictive analysis, and more.
+Visualise
+
+I am a Tableau Desktop Certified Professional with extensive knowledge of data visualisation best-practices. I have experience creating interactive tools and static infographics that can be consumed online or in print. Besides Tableau I have worked primarily with Power BI and Flourish. 
+=======================================
+
+
+
+
+Services
+Let me help make better use of your data. My expertise can be used to clean, analyse, interpret and visualize your data.
+Data Management
+
+Data harvesting, cleaning and reshaping. Development of automated workflows.
++
+Data Mining
+
+Data exploration, application of statistical methods, reproducible data analysis.
++
+Dataviz
+
+Creation of static and interactive dataviz and dashboards, review of scientific figures.
++
+Teaching & Training
+
+Short talks or multi-day courses on dataviz, R, ggplot2, data analytics and more. 
+
+=====================================
+
+
+
+#wrapper section {
+  display: grid;
+  grid-template-areas: "header content" "footer content";
+  grid-template-columns: 50vw 50vw;
+  grid-template-rows: 1fr;
+}
+
+
+#wrapper section > footer {
+  grid-area: footer;
+  text-align: right;
+}
+
+
+#wrapper section > footer ul.actions {
+  justify-content: flex-end;
+}
+
+
+#wrapper section > footer {
+  padding: 0 10rem;
+}
+
+
+  #wrapper section > footer {
+    padding: 0 8rem;
+  }
+
+
+  
+#wrapper section > .content {
+  grid-area: content;
+  max-width: 60rem;
+  position: relative;
+}
+
+
+#wrapper > section > .content > section {
+  position: relative;
+}
+
+#wrapper > section > .content > section:first-child {
+  margin-top: 6rem;
+}
+
+
+#wrapper > section.intro > .content {
+  height: 100vh;
+  max-width: none;
+}
+
+#wrapper > section.intro > .content > .intro-para {
+  position: relative;
+  z-index: 2;
+  margin: 9rem 4rem 9rem 4rem;
+  text-align: justify;
+}
+
+#wrapper section > .content {
+  padding: 0 5rem;
+}
+
+#wrapper > section > .content > section {
+  left: calc(-50vw - 5rem);
+}
+
+#wrapper > section > .content > section > header {
+  width: 32rem;
+}
+
+.image {
+  border: 0;
+  display: inline-block;
+  position: relative;
+}
+
+.image[data-position] video {
+  -moz-object-fit: cover;
+  -webkit-object-fit: cover;
+  -ms-object-fit: cover;
+  object-fit: cover;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.image[data-position="center"] img {
+  -moz-object-position: center;
+  -webkit-object-position: center;
+  -ms-object-position: center;
+  object-position: center;
+}
+
+.image.fill {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
